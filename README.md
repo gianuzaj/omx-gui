@@ -1,4 +1,4 @@
-omx-gui.py graphical user interface for omxplayer. 
+omx-gui is a graphical user interface for omxplayer, developed by wxpython. 
 
 need :
 - pexpect 2.3 or higher
