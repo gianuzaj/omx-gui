@@ -1,5 +1,4 @@
 omx-gui.py graphical user interface for omxplayer. 
-developed from TBOPlayer by KenT.
 
 need :
 - pexpect 2.3 or higher
