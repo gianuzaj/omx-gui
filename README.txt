@@ -4,6 +4,19 @@ need :
 - pexpect 2.3 or higher
 - wxpython (wxgtk2.8) 
 
+
+Download and Install pexpect
+
+This is specified here http://www.noah.org/wiki/pexpect#Download_and_Installation and copied below:
+
+From a terminal window open in your home directory type:
+
+     wget http://pexpect.sourceforge.net/pexpect-2.3.tar.gz
+     tar xzf pexpect-2.3.tar.gz
+     cd pexpect-2.3
+     sudo python ./setup.py install
+
+
 INSTALLATION
 ============
 
